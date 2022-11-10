@@ -4,7 +4,7 @@ Hi 👋 My name is Nicholas Galipi
 Fullstack web developer
 -----------------------
 
-I've been working in IT since i was 17 years old, having my first job monitoring my school computer room, after i that i had few other jobs and studied chemistry before coming back to follow my passion for computers and began working on a Information Systems bachelor degree. My first internship was on the largest hotel in Brazil as a system adminstrator intern, that ended due to covid, during the lockdown i improved my skills on softaware development and started a new internetship for a startup!
+I've been working in IT since i was 17 years old, having my first job monitoring students at my school computer classroom, after that i had few other jobs and studied chemistry before coming back to follow my passion for computers and began working on a Information Systems bachelor degree. My first internship was on the largest hotel in Brazil as a system adminstrator intern that ended due to covid, during the lockdown i improved my skills on softaware development and started a new internetship for a startup!
 
 * 🌍  I'm based in São Paulo - Brazil
 * 🧠  I'm learning C# and react!
